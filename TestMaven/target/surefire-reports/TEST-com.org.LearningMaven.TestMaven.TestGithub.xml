@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.org.LearningMaven.TestMaven.TestGithub" time="13.556" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.org.LearningMaven.TestMaven.TestGithub" time="56.107" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="TestGIT"/>
@@ -26,8 +26,8 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="TestGIT"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/TestGIT/4/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/TestGIT/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk8\jre\bin"/>
     <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="f6e77a471350b9e2864d470ac388d71aa33794c5"/>
     <property name="LOCALAPPDATA" value="C:\Users\Piyush\AppData\Local"/>
@@ -39,7 +39,7 @@
     <property name="MOZ_PLUGIN_PATH" value="C:\Program Files\Foxit Software\Foxit Reader\plugins\"/>
     <property name="NODE_NAME" value="master"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk8\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="4"/>
+    <property name="BUILD_ID" value="5"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -55,7 +55,8 @@
     <property name="java.home" value="C:\Program Files\Java\jdk8\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="6.1"/>
-    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/TestGIT/4/display/redirect"/>
+    <property name="=ExitCode" value="00000000"/>
+    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/TestGIT/5/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="TMP" value="C:\Users\Piyush\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
@@ -77,7 +78,7 @@
     <property name="POM_GROUPID" value="com.org.LearningMaven"/>
     <property name="user.home" value="C:\Users\Piyush"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-TestGIT-4"/>
+    <property name="BUILD_TAG" value="jenkins-TestGIT-5"/>
     <property name="JENKINS_SERVER_COOKIE" value="ed178edcfa76c057"/>
     <property name="ProgramData" value="C:\ProgramData"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -90,7 +91,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Program1\apache-maven-3.5.2"/>
     <property name="java.class.path" value="C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Program1\apache-maven-3.5.2\boot\plexus-classworlds-2.5.2.jar;C:\Program1\apache-maven-3.5.2/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program1\apache-maven-3.5.2 C:\Users\Piyush\.jenkins\war\WEB-INF\lib\remoting-3.14.jar C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51934"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program1\apache-maven-3.5.2 C:\Users\Piyush\.jenkins\war\WEB-INF\lib\remoting-3.14.jar C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51663"/>
     <property name="Path" value="C:\Program Files\Java\jdk8/bin;C:\Python34\;C:\Python34\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk8\bin;C:\Program Files\Java\jre8\bin;C:\Python34;C:\Python34\Scripts;C:\Program Files\Git\cmd"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
@@ -101,6 +102,7 @@
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="M2_HOME" value="C:\Program1\apache-maven-3.5.2"/>
+    <property name="=D:" value="D:\PullFromGIT"/>
     <property name="java.io.tmpdir" value="C:\Users\Piyush\AppData\Local\Temp\"/>
     <property name="OS" value="Windows_NT"/>
     <property name="HUDSON_HOME" value="C:\Users\Piyush\.jenkins"/>
@@ -118,12 +120,12 @@
 "/>
     <property name="MAVEN_HOME" value="C:\Program1\apache-maven-3.5.2"/>
     <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
-    <property name="BUILD_NUMBER" value="4"/>
+    <property name="BUILD_NUMBER" value="5"/>
     <property name="PROCESSOR_REVISION" value="2505"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="windir" value="C:\Windows"/>
     <property name="GIT_COMMIT" value="f6e77a471350b9e2864d470ac388d71aa33794c5"/>
-    <property name="=C:" value="C:\Users\Piyush"/>
+    <property name="=C:" value="C:\Users\Piyush\workspace\Holi2March"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
     <property name="maven3.interceptor" value="C:\Users\Piyush\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
@@ -133,5 +135,5 @@
     <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
     <property name="GIT_URL" value="https://github.com/piyush1001/TestGIT.git"/>
   </properties>
-  <testcase classname="com.org.LearningMaven.TestMaven.TestGithub" name="testJenkin" time="13.556"/>
+  <testcase classname="com.org.LearningMaven.TestMaven.TestGithub" name="testJenkin" time="56.107"/>
 </testsuite>

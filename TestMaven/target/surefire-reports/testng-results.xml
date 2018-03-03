@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.org.LearningMaven.TestMaven.TestGithub" duration-ms="13563" started-at="2018-02-17T08:53:27Z" finished-at="2018-02-17T08:53:41Z">
+  <suite name="com.org.LearningMaven.TestMaven.TestGithub" duration-ms="56119" started-at="2018-03-02T18:13:59Z" finished-at="2018-03-02T18:14:55Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="13563" started-at="2018-02-17T08:53:27Z" finished-at="2018-02-17T08:53:41Z">
+    <test name="Command line test" duration-ms="56119" started-at="2018-03-02T18:13:59Z" finished-at="2018-03-02T18:14:55Z">
       <class name="com.org.LearningMaven.TestMaven.TestGithub">
-        <test-method status="PASS" signature="testJenkin()[pri:0, instance:com.org.LearningMaven.TestMaven.TestGithub@16e8792]" name="testJenkin" duration-ms="13540" started-at="2018-02-17T14:23:27Z" finished-at="2018-02-17T14:23:41Z">
+        <test-method status="PASS" signature="testJenkin()[pri:0, instance:com.org.LearningMaven.TestMaven.TestGithub@16e8792]" name="testJenkin" duration-ms="56087" started-at="2018-03-02T23:43:59Z" finished-at="2018-03-02T23:44:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkin -->
